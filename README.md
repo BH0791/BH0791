@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Exige beaucoup de toi-même et attends peu des autres. Ainsi beaucoup d'ennuis te seront épargnés.
-
-*confucius*
+Aujourd’hui, la programmation est une course entre les ingénieurs logiciels qui s’efforcent de construire des programmes de plus en plus grands et de mieux en mieux protégés contre les idiots, et l’Univers qui essaie de produire des idiots de plus en plus grands. Jusqu’à présent, l’Univers gagne.
 
 ### ⚡ Technologies
 
