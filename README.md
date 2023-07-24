@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Langages
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
 <!--
 **BH0791/BH0791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
