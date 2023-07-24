@@ -37,7 +37,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BH0791&hide=TeX&layout=compact)
 
-<img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="100">
+<p><img align="center" src="https://github.com/BH0791/BH0791/blob/main/imgs/Strip-Jump-650-final1.jpg" width="100" /></p>
 <!--
 **BH0791/BH0791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
