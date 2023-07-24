@@ -29,6 +29,9 @@
 
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BH0791&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BH0791&hide=TeX&layout=compact)
 <!--
 **BH0791/BH0791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
