@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Exige beaucoup de toi-même et attends peu des autres. Ainsi beaucoup d'ennuis te seront épargnés.
+
+*confucius*
+
 ### ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
