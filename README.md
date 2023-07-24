@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Langages
+### Languages
 
-<img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
+<img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30"><img src="https://github.com/BH0791/BH0791/blob/main/imgs/android-img.png" width="30">
 
 <!--
 **BH0791/BH0791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
