@@ -10,10 +10,21 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ada](https://img.shields.io/badge/-ada-E34A86?style=flat-square&logo=ada)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=f&logo=android&logoColor=black)
 
 ### 🎖️ Languages
 
 <img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
+
+### 🎮 Games
+
+![Stream](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Stream](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![Stream](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=3DDC84)
+![Stream](https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![Stream](https://img.shields.io/badge/Origin-000000?style=for-the-badge&logo=origin&logoColor=E34A86)
+
+
 
 <!--
 **BH0791/BH0791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
