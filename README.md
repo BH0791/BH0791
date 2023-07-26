@@ -21,11 +21,11 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 🎮 Games
 
-![Stream](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Stream](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
-![Stream](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=3DDC84)
-![Stream](https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![Stream](https://img.shields.io/badge/Origin-000000?style=for-the-badge&logo=origin&logoColor=E34A86)
+![Stream](https://img.shields.io/badge/Steam-000000?style=flag&logo=steam&logoColor=white)
+![Stream](https://img.shields.io/badge/Battle.net-000?style=flag&logo=battle.net&logoColor=148EFF)
+![Stream](https://img.shields.io/badge/Counter_Strike-000000?style=flag&logo=counter-strike&logoColor=3DDC84)
+![Stream](https://img.shields.io/badge/Epic%20Games-000000?style=flag&logo=Epic%20Games&logoColor=white)
+![Stream](https://img.shields.io/badge/Origin-000000?style=flag&logo=origin&logoColor=E34A86)
 
 ### 👩‍💻 IDE
 
