@@ -29,8 +29,11 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 👩‍💻 IDE
 
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flag&logo=intellij-idea&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flag&logo=android-studio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flag&logo=visual%20studio%20code&logoColor=white)
+
+![visu](https://github-profile-trophy.vercel.app/?username=BH0791&title=Stars,Followers)
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BH0791&show_icons=true&theme=radical)
