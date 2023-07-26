@@ -17,7 +17,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 🎖️ Languages
 
-<p align="center">
+<p align="left">
 <a>
      <img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
 </a>
@@ -25,7 +25,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 🎮 Games
 
-<p align="center">
+<p align="left">
      <a>
      <img src="https://img.shields.io/badge/Steam-000000?style=flag&logo=steam&logoColor=white">
      </a>
@@ -43,7 +43,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 👩‍💻 IDE
 
-<p align="center">
+<p align="left">
      <a>
      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flag&logo=intellij-idea&logoColor=white">
      </a>
