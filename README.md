@@ -1,4 +1,4 @@
-### Hi there 👋
+p### Hi there 👋
 
 Aujourd’hui, la programmation est une course entre les ingénieurs logiciels qui s’efforcent de construire des programmes de plus en plus grands et de mieux en mieux protégés contre les idiots, et l’Univers qui essaie de produire des idiots de plus en plus grands. Jusqu’à présent, l’Univers gagne.
 
@@ -17,23 +17,52 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### 🎖️ Languages
 
-<img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
+<p align="center">
+<a>
+     <img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
+</a>
+</p>
 
 ### 🎮 Games
 
-![Stream](https://img.shields.io/badge/Steam-000000?style=flag&logo=steam&logoColor=white)
-![Stream](https://img.shields.io/badge/Battle.net-000?style=flag&logo=battle.net&logoColor=148EFF)
-![Stream](https://img.shields.io/badge/Counter_Strike-000000?style=flag&logo=counter-strike&logoColor=3DDC84)
-![Stream](https://img.shields.io/badge/Epic%20Games-000000?style=flag&logo=Epic%20Games&logoColor=white)
-![Stream](https://img.shields.io/badge/Origin-000000?style=flag&logo=origin&logoColor=E34A86)
+<p align="center">
+     <a>
+     <img src="https://img.shields.io/badge/Steam-000000?style=flag&logo=steam&logoColor=white">
+     </a>
+     <a>
+     <img src="https://img.shields.io/badge/Battle.net-000?style=flag&logo=battle.net&logoColor=148EFF">
+     </a>
+     <a>
+     <img src="https://img.shields.io/badge/Counter_Strike-000000?style=flag&logo=counter-strike&logoColor=3DDC84">
+     </a>
+     <a>
+     <img src="https://img.shields.io/badge/Origin-000000?style=flag&logo=origin&logoColor=E34A86">
+     </a>
+
+</p>
 
 ### 👩‍💻 IDE
 
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flag&logo=intellij-idea&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flag&logo=android-studio&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flag&logo=visual%20studio%20code&logoColor=white)
+<p align="center">
+     <a>
+     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flag&logo=intellij-idea&logoColor=white">
+     </a>
+     <a>
+     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flag&logo=android-studio&logoColor=white">
+     </a>
+     <a>
+     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flag&logo=visual%20studio%20code&logoColor=white">
+     </a>
 
-![visu](https://github-profile-trophy.vercel.app/?username=BH0791&theme=gruvbox)
+</p>
+
+<p align="center">
+<a>
+     <img src="https://github-profile-trophy.vercel.app/?username=BH0791&theme=gruvbox">
+     </a>
+</p>
+
+
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BH0791&show_icons=true&theme=radical)
