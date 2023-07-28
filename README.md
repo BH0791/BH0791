@@ -15,7 +15,15 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ada](https://img.shields.io/badge/-ada-E34A86?style=flat-square&logo=ada)
 
-### 🎖️ Languages
+<div align="center">
+  <p align="center">
+     <a href="https://github.com/dawidolko?tab=repositories">
+          <img src="https://skillicons.dev/icons?i=java,cpp,css,html,git,github,vscode,sqlite,powershell,maven,linkedin,idea,gradle,azul" />
+     </a>
+  </p>
+</div>
+
+### 🎖️ favourite language
 
 <p align="left">
 <a>
