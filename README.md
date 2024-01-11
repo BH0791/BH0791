@@ -2,6 +2,8 @@
 
 Aujourd’hui, la programmation est une course entre les ingénieurs logiciels qui s’efforcent de construire des programmes de plus en plus grands et de mieux en mieux protégés contre les idiots, et l’Univers qui essaie de produire des idiots de plus en plus grands. Jusqu’à présent, l’Univers gagne.
 
+[![BH0791 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BH0791&theme=react-dark)](https://github.com/BH0791)
+
 ### ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
