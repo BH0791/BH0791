@@ -4,7 +4,8 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 
 ### ⚡ Technologies
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Xml](https://img.shields.io/badge/Xml-14BF96?style=flate)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=f&logo=android&logoColor=black)
@@ -18,7 +19,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 <div align="center">
   <p align="center">
      <a href="https://github.com/dawidolko?tab=repositories">
-          <img src="https://skillicons.dev/icons?i=java,cpp,css,html,git,github,vscode,sqlite,powershell,maven,linkedin,idea,gradle,azul" />
+          <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,css,html,git,github,vscode,sqlite,powershell,maven,linkedin,idea,gradle,azul" />
      </a>
   </p>
 </div>
