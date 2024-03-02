@@ -39,6 +39,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 <a>
      <img src="https://github.com/BH0791/BH0791/blob/main/imgs/Java-img.png" width="30">
 </a>
+  <img src="https://skillicons.dev/icons?i=kotlin" />
 </p>
 
 ### 🎮 Games
