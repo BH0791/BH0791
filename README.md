@@ -3,7 +3,7 @@
 Aujourd’hui, la programmation est une course entre les ingénieurs logiciels qui s’efforcent de construire des programmes de plus en plus grands et de mieux en mieux protégés contre les idiots, et l’Univers qui essaie de produire des idiots de plus en plus grands. Jusqu’à présent, l’Univers gagne.
 
 ### ⚡ Technologies
-
+---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
@@ -24,7 +24,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-
+---
 <div align="center">
   <p align="center">
      <a href="https://github.com/dawidolko?tab=repositories">
@@ -32,6 +32,8 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
      </a>
   </p>
 </div>
+
+---
 
 ### 🎖️ favourite language
 
