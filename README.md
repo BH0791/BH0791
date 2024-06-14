@@ -28,7 +28,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
 <div align="center">
   <p align="center">
      <a href="https://github.com/dawidolko?tab=repositories">
-          <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,powershell,vscode,idea,azul,css,html,sqlite,linkedin,cpp" />
+          <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
      </a>
   </p>
 </div>
