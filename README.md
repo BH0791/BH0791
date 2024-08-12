@@ -59,6 +59,9 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
      <a>
      <img src="https://img.shields.io/badge/Origin-000000?style=flag&logo=origin&logoColor=E34A86">
      </a>
+     <a>
+     <img src="https://img.shields.io/badge/Ubisoft-000000?style=flag&logo=ubisoft&logoColor=E0ba8f">
+     </a>
 
 </p>
 
