@@ -86,7 +86,7 @@ Aujourd’hui, la programmation est une course entre les ingénieurs logiciels q
      </a>
 </p>
 
-[![BH0791 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BH0791&theme=react-dark)](https://github.com/BH0791)
+<!--[![BH0791 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BH0791&theme=react-dark)](https://github.com/BH0791)-->
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BH0791&show_icons=true&theme=radical)
